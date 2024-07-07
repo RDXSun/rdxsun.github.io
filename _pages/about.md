@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Biography"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# Biography
 
 I am a PhD student in DSA Thrust of the Information Hub at [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) advised by Prof. [Xinlei He](https://xinleihe.github.io/) .
 
