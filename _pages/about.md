@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Zhen SUN"
 author_profile: true
 redirect_from: 
   - /about/
