@@ -13,6 +13,5 @@ I am a PhD student in DSA Thrust of the Information Hub at [Hong Kong University
 
 News
 ======
-- [2024/7] Our Paper ""
-- [2024/6] Receive a firm offer of PhD from HKUSTGZ.
-- [2023/6] Joined the Centre for Artificial Intelligence and Robotics (CAIR) at the Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences (HKISI-CAS) in June 2023.
+- [2024/7] Our Survey, in collaboration with Tsinghua University, is available on Arxiv "[Jailbreak Attacks and Defenses Against Large Language Models: A Survey](https://arxiv.org/pdf/2407.04295)"
+- [2024/6] Receive a firm PhD offer from HKUST(GZ).
